@@ -1,0 +1,17 @@
+{
+  "name": "duo-ejs",
+  "version": "0.0.1",
+  "description": "duo plug-in for precompiling ejs files",
+  "keywords": [
+    "duo",
+    "ejs",
+    "compile"
+  ],
+  "author": "Brian Knorr <btknorr@gmail.com>",
+  "dependencies": {
+    "ejs": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
